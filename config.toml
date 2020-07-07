@@ -21,9 +21,9 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/bts_twt"
+  twitter = ""
   instagram = ""
-  youtube = "https://www.youtube.com/c/BigHitLabels/featured"
+  youtube = ""
   github = ""
   gitlab = ""
   linkedin = ""
@@ -33,7 +33,8 @@ enableRobotsTXT = true
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "bts concert.jpg"
+  featured_image = "city.jpg"
+
   recent_posts_number = 2
 
   [markup]

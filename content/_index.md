@@ -1,5 +1,5 @@
 ---
-title: "Commercial news and deals"
+title: "Commercial legal news"
 date: 2020-07-07T11:13:33+01:00
 draft: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Corporate/M&A"
 date: 2020-07-07T23:41:58+01:00
-draft: true
+draft: false
 ---
 
 ## Yogawear maker Lululemon acquires home-fitness start-up Mirror for $500M

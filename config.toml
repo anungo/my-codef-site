@@ -1,4 +1,4 @@
-title = "Home"
+title = "Commercial legal news"
 baseURL = "https://mystifying-raman-7795e3.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
@@ -41,4 +41,4 @@ enableRobotsTXT = true
     [markup.goldmark]
       [markup.goldmark.renderer]
         unsafe = true 
-        
+

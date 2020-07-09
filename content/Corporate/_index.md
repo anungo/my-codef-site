@@ -4,11 +4,11 @@ date: 2020-07-07T23:41:58+01:00
 draft: false
 ---
 
-## Yogawear maker Lululemon acquires home-fitness start-up Mirror for $500M
+### Yogawear maker Lululemon acquires home-fitness start-up Mirror for $500M
 ![lulu](lulu.jpg)
 
 
-### Why?
+#### Why?
 Online, home-based exercises have surged in popularity throughout the pandemic with gyms and fitness studios closed. This trend is also evidenced by Peloton Interactive Inc., a home fitness company that sells stationary bikes and subscription-based spinning classes, to gain over a million people signing up to free trials between March and April. 
 
 This acquisition by Lululemon can be seen as part of the company's three-year expansion plan. Lululemon has recognised the huge potential of   at-home fitness

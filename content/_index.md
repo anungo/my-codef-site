@@ -4,7 +4,7 @@ date: 2020-07-07T11:13:33+01:00
 draft: false
 ---
 
-## Recent updates
+## *Recent updates*
 
 ### Slaughter and May advises Interserve on proposed merger of Interserve Support Services with Mitie
 ![mitie](mitie.jpg)

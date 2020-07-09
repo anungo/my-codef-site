@@ -6,7 +6,7 @@ draft: false
 
 ## *Recent updates*
 
-### Slaughter and May advises Interserve on proposed merger of Interserve Support Services with Mitie
+### [Slaughter and May](https://www.slaughterandmay.com/)advises Interserve on proposed merger of Interserve Support Services with Mitie
 ![mitie](mitie.jpg)
 25 June 2020
 

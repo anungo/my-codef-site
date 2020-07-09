@@ -4,7 +4,7 @@ date: 2020-07-07T23:48:04+01:00
 draft: false
 ---
 
-## Allen & Overy, Freshfields and Linklaters Take On Intu Administration
+### Allen & Overy, Freshfields and Linklaters Take On Intu Administration
 
 ![intu](intu.jpg)
 26 June 2020
